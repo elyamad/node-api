@@ -2,9 +2,9 @@
 Simple API REST with Node and Express
 
 ## Requirements
-npm version : *3.7.1 [`https://github.com/npm/npm/releases/tag/v1.4.9`] (https://github.com/npm/npm/releases/tag/v1.4.9)*
+npm version : *3.7.1 [`https://github.com/npm/npm/releases/tag/v1.4.9`] (v1.4.9)*
 
-node version : *0.11.13 [`https://nodejs.org/en/download/releases/`] (https://nodejs.org/en/download/releases/)*
+node version : *0.11.13 [`https://nodejs.org/en/download/releases/`] (0.11.13)*
 
 
 ## Setup

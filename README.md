@@ -24,7 +24,7 @@ Browse to http://localhost:3000
 ## Some screenshots
 
 ![OK](http://i.imgur.com/A4eQJSo.png)
-![OK](http://i.imgur.com/a/Tjynt.png)
+![OK](http://i.imgur.com/fYPoIcx.png)
 
 
 License

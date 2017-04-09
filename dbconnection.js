@@ -3,7 +3,7 @@ var connection = mysql.createPool({
   host:'localhost',
   user:'root',
   password:'root',
-  database:'api_node'
+  database:'node_api'
 });
 
 module.exports = connection;

@@ -23,8 +23,8 @@ Browse to http://localhost:3000
 ```
 ## Some screenshots
 
-![OK](http://imgur.com/a/ERFdo)
-![OK](http://imgur.com/a/Tjynt)
+![OK](http://i.imgur.com/a/ERFdo.png)
+![OK](http://i.imgur.com/a/Tjynt.png)
 
 
 License

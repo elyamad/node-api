@@ -6,6 +6,11 @@ npm version : *3.7.1 [`https://github.com/npm/npm/releases/tag/v1.4.9`] (v1.4.9)
 
 node version : *0.11.13 [`https://nodejs.org/en/download/releases/`] (0.11.13)*
 
+## Data base - Mysql
+If you do not have a mysql database, please install one. 
+Then run the sql script located in the SQL folder.
+
+Do not forget to configure your database in the same way as the dbconnection's file configuration.
 
 ## Setup
 Clone the repository:
